@@ -27,7 +27,7 @@ A sphinx template tutorial repository
 
 When the repository is public
 ```bash
-pip install git+https://github.com/ampersandor/sphinx-template@main#egg=sphinx-template
+pip install git+https://github.com/ampersandor/calculator@main#egg=calculator
 
 ```
 
@@ -35,7 +35,7 @@ When the repository is private or internal
 ```bash
 export TOKEN="ENTER YOUR GITHUB TOKEN HERE"
 
-pip install git+https://${TOKEN}@github.com//ampersandor/sphinx-template@main#egg=sphinx-template
+pip install git+https://${TOKEN}@github.com/ampersandor/calculator@main#egg=calculator
 
 ```
 
